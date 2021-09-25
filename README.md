@@ -8,6 +8,6 @@ Matrix rain with jgraph
 * ["default"](https://youtu.be/AHWzZB32yI0)
 * ["tiny"](https://youtu.be/G6tmnxP6Zyw)
 * ["chaotic"](https://youtu.be/SmaRYUANee4)
-* ["snowy"]()
+* ["snowy"](https://youtu.be/PiRidffYSFE)
 * ["dailup"](https://youtu.be/WEAIcGjXG1U)
 * ["myeyesarebleeding"](https://youtu.be/XoQjTu242zc) (Don't say I didn't warn you)
