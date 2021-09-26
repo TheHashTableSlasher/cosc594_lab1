@@ -1,0 +1,19 @@
+--- matrixrain.sh	2021-09-25 23:51:40.119943053 -0400
++++ myeyesarebleeding.sh	2021-09-25 23:53:29.811352692 -0400
+@@ -21,13 +21,13 @@
+ ###########################
+ 
+ # Raindrop color, as an RGB triple
+-activecolor="{0.25, 1, 0.25}"
++activecolor="{0, 1, 1}"
+ 
+ # Raindrop trail color, as an RGB triple
+-inactivecolor="{0, 0.8, 0}"
++inactivecolor="{0, 1, 1}"
+ 
+ # Background color, as an RGB triple
+-bgcolor="{0, 0, 0}"
++bgcolor="{1, 0, 1}"
+ 
+ # Font size
+ fontsize=12

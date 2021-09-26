@@ -1,0 +1,24 @@
+--- matrixrain.sh	2021-09-25 23:51:40.119943053 -0400
++++ snowy.sh	2021-09-25 23:53:29.807352859 -0400
+@@ -36,17 +36,17 @@
+ # will try n times to create a new raindrop with a probability of p. Note that
+ # this means the rate at which new raindrops are created is dependent on the
+ # framerate of the video, which can be adjusted below.
+-spawnn=3
+-spawnp=0.15
++spawnn=2
++spawnp=0.1
+ 
+ # Speed at which raindrops descend. After the provided amount of time (in
+ # seconds), a raindrop will descend and add a new character to its trail.
+-descendspeed=0.04
++descendspeed=0.2
+ 
+ # Speed with with each character in a raindrop's trail disappears. Each
+ # character in the trail will fade to the background color and disappear in the
+ # given amount of time (in seconds).
+-fadespeed=2
++fadespeed=3
+ 
+ # Probability that a character in a raindrop's trail will spontaneously change
+ # to a different character in a given frame.

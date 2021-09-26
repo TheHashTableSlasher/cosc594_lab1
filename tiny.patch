@@ -1,0 +1,18 @@
+--- matrixrain.sh	2021-09-25 23:51:40.119943053 -0400
++++ tiny.sh	2021-09-25 23:53:29.807352859 -0400
+@@ -30,13 +30,13 @@
+ bgcolor="{0, 0, 0}"
+ 
+ # Font size
+-fontsize=12
++fontsize=6
+ 
+ # Bernoulli distribution used to spawn new raindrop. Each frame, The script
+ # will try n times to create a new raindrop with a probability of p. Note that
+ # this means the rate at which new raindrops are created is dependent on the
+ # framerate of the video, which can be adjusted below.
+-spawnn=3
++spawnn=8
+ spawnp=0.15
+ 
+ # Speed at which raindrops descend. After the provided amount of time (in

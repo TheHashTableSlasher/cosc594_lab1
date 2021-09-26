@@ -7,7 +7,7 @@
 # Paths to each command. These values should work on Hydra machines, but may
 # need adjusted on others.
 LUA=lua
-JGRAPH=~jplank/jgraph
+JGRAPH=~jplank/bin/LINUX-X86_64/jgraph
 PS2PDF=ps2pdf
 CONVERT=convert
 FFMPEG=./ffmpeg
