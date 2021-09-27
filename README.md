@@ -18,7 +18,7 @@ First off, aside from all of the standard shell utilities, you'll need to have t
 * [`lua`](https://www.lua.org/)
 * [`ps2pdf`](https://www.ghostscript.com/)
 
-The Hydra machines have `convert`, `lua`, and `ps2pdf` installed, and Dr. Plank has a `jgraph` executable in his home directory. A static `ffmpeg` binary for Linux/amd64 is included in this git repository.
+The Hydra machines have `convert`, `lua`, and `ps2pdf` installed, and Dr. Plank has a `jgraph` executable in his home directory. A static `ffmpeg` binary for Linux/amd64 is included in this git repository. The paths to these executables are specified as variables in the shell script, and may be changed as desired.
 
 To run, just type the following into a terminal:
 
